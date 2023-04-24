@@ -32,4 +32,6 @@ public class ArticuloController {
     public ResponseEntity<List<ArticuloDTO>> getArticulos() {
         return ResponseEntity.ok(articuloService.getAll());
     }
+
+
 }

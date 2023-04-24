@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class ArticulosMapper {
+public class ArticuloMapper {
 
     public List<ArticuloDTO> getArtDtos(List<Articulo> articulos){
         ArticuloDTO articuloDTO;

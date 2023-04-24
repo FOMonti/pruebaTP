@@ -1,7 +1,7 @@
 package com.labo.prueba.controllers;
 
 import com.labo.prueba.exception.BadRequestException;
-import com.labo.prueba.dto.articulo.ErrorMessage;
+import com.labo.prueba.exception.ErrorMessage;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

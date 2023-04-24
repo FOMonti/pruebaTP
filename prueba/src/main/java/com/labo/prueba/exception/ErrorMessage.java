@@ -1,6 +1,5 @@
-package com.labo.prueba.dto.articulo;
+package com.labo.prueba.exception;
 
-import com.labo.prueba.exception.ErrorMessageBuilder;
 import org.springframework.http.HttpStatus;
 
 import java.time.ZonedDateTime;

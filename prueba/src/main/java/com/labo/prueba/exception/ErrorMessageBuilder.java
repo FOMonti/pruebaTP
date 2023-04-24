@@ -1,6 +1,5 @@
 package com.labo.prueba.exception;
 
-import com.labo.prueba.dto.articulo.ErrorMessage;
 import org.springframework.http.HttpStatus;
 
 public interface ErrorMessageBuilder {
